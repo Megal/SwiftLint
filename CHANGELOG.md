@@ -1,4 +1,4 @@
-## Master
+## 0.32.0: fix superfluous disable comment
 
 #### Breaking
 
